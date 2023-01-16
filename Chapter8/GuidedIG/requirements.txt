@@ -1,0 +1,7 @@
+Pillow
+keras
+matplotlib
+numpy
+saliency
+tensorflow
+tensorflow_hub
