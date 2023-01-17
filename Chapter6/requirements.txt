@@ -1,0 +1,7 @@
+lime==0.2.0.1
+scikit-image==0.19.3
+numpy
+pandas
+matplotlib
+keras==2.9.0
+tensorflow==2.9.0
