@@ -1,7 +1,0 @@
-matplotlib
-numpy
-pandas
-imblearn
-mxnet
-tensorflow==2.9.0
-autogluon==0.6.1
