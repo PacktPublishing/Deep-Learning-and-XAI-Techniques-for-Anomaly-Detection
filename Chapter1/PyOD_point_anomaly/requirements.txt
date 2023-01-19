@@ -1,0 +1,4 @@
+pyod==1.0.7
+numpy
+pandas
+matplotlib
