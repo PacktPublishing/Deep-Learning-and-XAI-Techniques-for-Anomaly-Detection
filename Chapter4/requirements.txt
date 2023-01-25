@@ -1,8 +1,0 @@
-keras==2.11.0
-matplotlib
-numpy
-omnixai
-pandas
-seaborn
-sklearn
-tensorflow==2.11.0
