@@ -1,0 +1,8 @@
+keras==2.11.0
+matplotlib
+numpy
+omnixai
+pandas
+seaborn
+scikit-learn
+tensorflow==2.11.0
