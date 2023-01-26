@@ -5,3 +5,4 @@ tensorflow==2.11.0
 keras==2.11.0
 pandas
 numpy
+Keras-Preprocessing==1.1.2
