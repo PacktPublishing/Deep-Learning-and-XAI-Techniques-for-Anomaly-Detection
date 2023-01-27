@@ -3,7 +3,7 @@ numpy
 pandas
 shap
 sklearn
-tensorflow
-autogluon
+tensorflow==2.11.0
+autogluon==0.6.2
 mxnet
 movecolumn
