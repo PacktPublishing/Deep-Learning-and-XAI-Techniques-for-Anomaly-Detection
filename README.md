@@ -68,9 +68,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Azure Synapse Analytics Cookbook [[Packt]](https://www.packtpub.com/product/azure-synapse-analytics-cookbook/9781803231501) [[Amazon]](https://www.amazon.com/dp/1803231505)
+* Modern Time Series Forecasting with Python [[Packt]](https://www.packtpub.com/product/modern-time-series-forecasting-with-python/9781803246802) [[Amazon]](https://www.amazon.com/dp/1803246804)
 
-* Limitless Analytics with Azure Synapse [[Packt]](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659) [[Amazon]](https://www.amazon.com/dp/1800205651)
+* Production-Ready Applied Deep Learning [[Packt]](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665) [[Amazon]](https://www.amazon.com/dp/180324366X)
 
 ## Get to Know the Author
 **Cher Simon**
