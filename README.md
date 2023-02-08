@@ -46,9 +46,7 @@ With the following software and hardware list you can run all code files present
 
 You will need a Jupyter environment with Python 3.8+ to run the example walk-throughs in this book.
 Each sample notebook comes with a requirement.txt file that lists the package dependencies.
-You can experiment with the sample notebooks on Amazon SageMaker Studio Lab (https://aws.
-amazon.com/sagemaker/studio-lab/). This free ML development environment provides
-up to 12 hours of CPU or 4 hours of GPU per user session and 15 GiB storage at no cost.
+You can experiment with the sample notebooks on Amazon SageMaker Studio Lab (https://aws.amazon.com/sagemaker/studio-lab/). This free ML development environment provides up to 12 hours of CPU or 4 hours of GPU per user session and 15 GiB storage at no cost.
 
 | Software required                      | OS required                        |
 | ------------------------------------   | -----------------------------------|
@@ -59,8 +57,7 @@ up to 12 hours of CPU or 4 hours of GPU per user session and 15 GiB storage at n
 
 A valid email address is all you need to get started with Amazon SageMaker Studio Lab. You do not
 need to configure infrastructure, manage identity and access, or even sign up for an AWS account. For
-more information, please refer to https://docs.aws.amazon.com/sagemaker/latest/
-dg/studio-lab-overview.html. Alternatively, you can try the practical examples on your
+more information, please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab-overview.html. Alternatively, you can try the practical examples on your
 preferred Integrated Development Environment (IDE).
 
 
