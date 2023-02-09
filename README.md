@@ -40,7 +40,7 @@ data.head(3)
 **Following is what you need for this book:**
 This book is for anyone who aspires to explore explainable deep learning anomaly detection, tenured data scientists or ML practitioners looking for Explainable AI (XAI) best practices, or business leaders looking to make decisions on trade-off between performance and interpretability of anomaly detection applications. A basic understanding of deep learning and anomaly detection–related topics using Python is recommended to get the most out of this book.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+With the following software and hardware list you can run all code files present in the book.
 
 ### Software and Hardware List
 
