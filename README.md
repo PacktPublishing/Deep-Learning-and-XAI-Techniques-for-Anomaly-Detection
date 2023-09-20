@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Deep Learning and XAI Techniques for Anomaly Detection		
 
 <a href="https://www.packtpub.com/product/deep-learning-and-xai-techniques-for-anomaly-detection/9781804617755?utm_source=github&utm_medium=repository&utm_campaign=9781804617755"><img src="https://static.packt-cdn.com/products/9781804617755/cover/smaller" alt="Deep Learning and XAI Techniques for Anomaly Detection	" height="256px" align="right"></a>
